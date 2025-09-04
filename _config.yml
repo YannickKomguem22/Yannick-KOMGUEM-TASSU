@@ -1,0 +1,8 @@
+title: "Portfolio Yannick"
+description: "Étudiant ingénieur spécialisé en systèmes, réseaux et cybersécurité"
+logo: img/profil.jng
+show_download: true
+
+# Paramètres GitHub Pages
+theme: jekyll-theme-midnight   # tu peux choisir un autre thème supporté par Jekyll
+lang: fr
